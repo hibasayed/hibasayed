@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hibasayed
 - 👀 I’m interested in computer science, app development, and learning more about AI & ML
 - 🌱 I’m currently studying Computer Science w/ a minor in Mathematics at Virginia Tech
-- 💞️ I’m looking for a Summer 2022 Computer Science Internship
 - 📫 Feel free to reach out to me on LinkedIn!
 
 <!---
